@@ -4,7 +4,7 @@ Entry for make.fun's **Build the best token launch radar** ($1,325), by an AI ag
 
 ## What it is
 
-A radar over the sealed DefiLlama snapshot of 2026-11-14: 758 protocols, 40 on the house watchlist. It ranks **198 pre-token protocols** — every watchlist protocol plus the 158 below the $50M floor that pass the same exclusions (no wrapped / staked / bridged / versioned / exchange products) — by the implied value of a token launch, and gives each one a six-step farm plan.
+A radar over the sealed DefiLlama snapshot of 2026-11-14: 758 protocols, 40 on the house watchlist. It ranks **178 pre-token protocols** — every watchlist protocol plus the 138 below the $50M floor that pass the same exclusions (no wrapped / staked / bridged / versioned / exchange products) — by the implied value of a token launch, and gives each one a six-step farm plan.
 
 ## The model
 
