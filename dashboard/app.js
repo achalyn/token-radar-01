@@ -4,7 +4,7 @@
 // functions board.json was built with).
 (function () {
   var R = window.RADAR;
-  var rows = R.rows; // [rank, slug, name, cat, chains, tvl, chg, implied, ageDays, ratio, growth, ageMult]
+  var rows = R.rows; // [rank, slug, name, cat, chains, tvl, chg, implied, ageDays, base, growth, ageMult]
   var live = R.live; // [slug, name, cat, tvl, mcap, chg]
   var state = { q: '', cat: '', chain: '', watch: false, sort: 'rank', view: 'board', sel: null };
   var watchSet = {};
